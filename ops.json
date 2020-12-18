@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "9543bd51-e757-41dc-b206-8a983afc037a",
+    "name": "The_Snowpickle",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cd80858a-63c5-4738-99fd-a2f43c5ba5a1",
+    "name": "MaPio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "05f69dbd-fd22-4be6-9b37-488af18518dd",
+    "name": "Yales21",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
